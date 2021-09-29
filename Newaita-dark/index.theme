@@ -1,7 +1,7 @@
 [Icon Theme]
-Name=Newaita-noapp
+Name=Newaita-dark-noapp
 Comment=Combining old style and material design
-Inherits=adwaita,breeze,gnome,hicolor
+Inherits=adwaita,breeze-dark,gnome,hicolor
 
 Example=folder
 
