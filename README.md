@@ -1,36 +1,43 @@
-# Newaita
+# Newaita noapp
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cbrnix/Newaita/master/cover.png" alt="preview"/>
+	<img src="cover.png" alt="preview" style="max-width:100%"/>
 </p>
-Newaita icon theme is licensed under the CC BY-NC-SA 3.0 Linux icon theme combining old style and color of material design.
 
-## Installation:
-Just extract Newaita/Newaita-dark to ~/.icons or ~/.local/share/icons or /usr/share/icons
+This is a fork of [Newaita](https://github.com/cbrnix/Newaita) icon theme where all app icons are removed.
 
-## Arch Linux
-Arch Linux users can find Newaita under the name [newaita-icons-git](https://aur.archlinux.org/packages/newaita-icons-git/) in the **AUR**:
-`$ aurman -S newaita-icons-git`
+## Installation
 
-special thanks to btd1337 (https://github.com/btd1337)
+### Light
 
-## Folders and panel variants:
+Copy "Newaita" to "~/.icons" or:  
+`cp Newaita ~/.icons`
 
-### To change the icon options for a dark or light panel:
-1. Go to Newaita (or Newaita-dark) directory
+### Dark
+
+Copy "Newaita-dark" to "~/.icons" or:  
+`cp Newaita-dark ~/.icons`
+
+## Folders and panel variants
+
+### Opt for a dark or light panel
+
+1. Go to `Newaita` (or `Newaita-dark`) directory
 2. Open terminal here
 3. Type: chmod +x ./PV.sh
 4. Type: ./PV.sh
 5. Follow the menu options
 
-### To change folders:
-1. Go to Newaita (or Newaita-dark) directory
+### Change folders' color
+
+1. Go to `Newaita` (or `Newaita-dark`) directory
 2. Open terminal here
 3. Type: chmod +x ./FV.sh
 4. Type: ./FV.sh
 5. Follow the menu options
 
-## Icon request:
-If you urgently needed any icon, please write in the comments on the page https://store.kde.org/p/1243493/
- 
-## Support
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=5BXKLL6AVFQ2W)
+## License
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+A copy of the license is available [here](license.pdf) and a summary of that [here](summary.pdf). 
+
+![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
